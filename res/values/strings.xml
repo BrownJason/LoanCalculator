@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LoanCalculator</string>
+    <string name="home_auto">Home and Auto Insurance</string>
+    <string name="loan">Total loan Amount: </string>
+    <string name="terms">Term amount in years: </string>
+    <string name="interest_rate">Interest Rate: </string>
+    <string name="discount">Your monthly discount: </string>
+    <string name="monthly_patment">Your monthly payment: </string>
+    <string name="calculate">Calculate</string>
+    <string name="Back">Back</string>
+    <string name="roth_balance">Roth IRA</string>
+    <string name="taxable_savings">Taxable Savings</string>
+    <string name="statringBalance">Statring Balance</string>
+    <string name="yearlyPayment">Annual Contribution</string>
+    <string name="marginalTaxRate">Marginal Tax Rate</string>
+    <string name="RothIRA">Roth IRA Savings</string>
+    <integer name="interestRate">7</integer>
+    <integer name="marginalRate">25</integer>
+    <integer name="years">36</integer>
+    <integer name="startBalance">0</integer>
+    <integer name="payment">5500</integer>
+</resources>
